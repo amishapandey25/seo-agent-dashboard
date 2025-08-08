@@ -1,0 +1,1 @@
+<your InsightTable.tsx code here>
