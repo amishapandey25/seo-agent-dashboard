@@ -1,1 +1,1 @@
-<your dashboard page code here>
+/app/dashboard/page.tsx
